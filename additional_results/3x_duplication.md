@@ -1,3 +1,5 @@
+### Llama 3.2 3B
+
 | No duplication | Exact match | BLEU Score | BERT F1 Score |
 | -------------- | ----------- | ---------- | ------------- |
 | Full model 	| 0.02    	| 0.03   	| 0.11      	|
